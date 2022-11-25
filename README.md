@@ -22,9 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=marcusDevGit&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  <a href = "marcus: maucus_psc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  
  
   ![Snake animation](https://github.com/marcusDevGit/marcusDevGit/blob/output/github-contribution-grid-snake.svg)
  
