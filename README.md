@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I don't work in the area yet, but I'm looking into it.<br>- 📚 I'm currently learning about VUE.js<br>- ⚡In my free time I read a little, or go for a walk.</p>
+<p align="left">I'm Marcus .<br><br>- 🔭 I don't work in the area yet, but I'm looking into it.<br>- 📚 I'm currently learning about VUE.js<br>- ⚡In my free time I read a little, or go for a walk.</p>
 
 ###
 
