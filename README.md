@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👨🏿‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Marcus .<br><br>- 🔭 I don't work in the area yet, but I'm looking into it.<br>- 📚 I'm currently learning about VUE.js<br>- ⚡In my free time I read a little, or go for a walk.</p>
+<p align="left">I'm Marcus<br><br>- 🔭 I'm not working in the area yet, but I'm looking for it.<br>- 📚 I am currently learning about VUE.js and Node.js.<br>- ⚡In my free time I read a little.</p>
 
 ###
 
@@ -38,39 +38,42 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcusDevGit&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcusDevGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="151" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusDevGit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcusDevGit&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=31&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcusDevGit/marcusDevGit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcusDevGit/marcusDevGit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcusDevGit/marcusDevGit/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/marcusDevGit/marcusDevGit/output/snake.svg" alt="Snake animation" />
 
 ###
