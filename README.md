@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Marcus<br><br>- 🔭 I'm not working in the area yet, but I'm looking for it.<br>- 📚 I am currently learning about VUE.js and Node.js.<br>- ⚡In my free time I read a little.</p>
+<p align="left">I'm Marcus<br><br>- 🔭 I'm not working in the area yet, but I'm looking for it.<br>- 📚 I am currently learning about Reacte and Node.js.<br>- ⚡In my free time I read a little.</p>
 
 ###
 
